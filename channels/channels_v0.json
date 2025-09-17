@@ -1,0 +1,2022 @@
+{
+    "appLatestVersion": "1.0",
+    "channelsLatestVersion": "0",
+    "channels":
+    [
+        {
+            "id": "0",
+            "code": "b0260a1261eb3817c353ef0a6862747dee18cdda",
+            "description": "M. LaLiga FHD (new era)",
+            "icon": "mlaliga",
+            "category":
+            {
+                "id": "mlaliga",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "1",
+            "code": "af458073c3096293a4dea9f369d4f308e7125bd6",
+            "description": "M. LaLiga FHD (new era)",
+            "icon": "mlaliga",
+            "category":
+            {
+                "id": "mlaliga",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "2",
+            "code": "d4ff041287a43e3114d411d671c4b4e92e21f31e",
+            "description": "M. LaLiga FHD (new era II)",
+            "icon": "mlaliga",
+            "category":
+            {
+                "id": "mlaliga",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "3",
+            "code": "107c3ce5a5d2527c9f06e4eab87477201791f231",
+            "description": "M. LaLiga FHD (new era VI)",
+            "icon": "mlaliga",
+            "category":
+            {
+                "id": "mlaliga",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "4",
+            "code": "d2ddf9802ccfdc456f872eea4d24596880a638a0",
+            "description": "M. LaLiga FHD (new era VI)",
+            "icon": "mlaliga",
+            "category":
+            {
+                "id": "mlaliga",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "5",
+            "code": "00c9bc9c5d7d87680a5a6bed349edfa775a89947",
+            "description": "M. LaLiga (elcano)",
+            "icon": "mlaliga",
+            "category":
+            {
+                "id": "mlaliga",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "6",
+            "code": "c9321006921967d6258df6945f1d598a5c0cbf1e",
+            "description": "M. LaLiga FHD (elcano)",
+            "icon": "mlaliga",
+            "category":
+            {
+                "id": "mlaliga",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "7",
+            "code": "4b528d10eaad747ddf52251206177573ee3e9f74",
+            "description": "M. LaLiga FHD (elcano)",
+            "icon": "mlaliga",
+            "category":
+            {
+                "id": "mlaliga",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "8",
+            "code": "14b6cd8769cd485f2cffdca64be9698d9bfeac58",
+            "description": "M. LaLiga SD (elcano)",
+            "icon": "mlaliga",
+            "category":
+            {
+                "id": "mlaliga",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "9",
+            "code": "911ad127726234b97658498a8b790fdd7516541d",
+            "description": "M. LaLiga 2 FHD (new era VI)",
+            "icon": "mlaliga",
+            "category":
+            {
+                "id": "mlaliga",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "10",
+            "code": "51b363b1c4d42724e05240ad068ad219df8042ec",
+            "description": "M. LaLiga 2 FHD (elcano)",
+            "icon": "mlaliga",
+            "category":
+            {
+                "id": "mlaliga",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "11",
+            "code": "ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8",
+            "description": "M. LaLiga 2 SD (elcano)",
+            "icon": "mlaliga",
+            "category":
+            {
+                "id": "mlaliga",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "12",
+            "code": "7ad14386deef2f45ffe17d30a631dbf79b6a1a87",
+            "description": "M. LaLiga 3 FHD (elcano)",
+            "icon": "mlaliga",
+            "category":
+            {
+                "id": "mlaliga",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "13",
+            "code": "382b14499e3d76e557d449d2e5bbc4e4bd63bd39",
+            "description": "M. LaLiga 3 SD (elcano)",
+            "icon": "mlaliga",
+            "category":
+            {
+                "id": "mlaliga",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "14",
+            "code": "0f7842f8b6c26571e5a974407b61623e56e6a052",
+            "description": "M.L. Campeones FHD (new era VI)",
+            "icon": "mlcampeones",
+            "category":
+            {
+                "id": "mlcampeones",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "15",
+            "code": "f3eea003e23f94dc2d527306de9dd386e3ebf4ba",
+            "description": "M.L. Campeones FHD (new era VI)",
+            "icon": "mlcampeones",
+            "category":
+            {
+                "id": "mlcampeones",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "16",
+            "code": "97df5b7824948972d041d8ca2a4d29c90b641bc9",
+            "description": "M.L. Campeones FHD (elcano)",
+            "icon": "mlcampeones",
+            "category":
+            {
+                "id": "mlcampeones",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "17",
+            "code": "2b51710cee513e8939785fa3e7980f32d4e0415f",
+            "description": "M.L. Campeones FHD (elcano)",
+            "icon": "mlcampeones",
+            "category":
+            {
+                "id": "mlcampeones",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "18",
+            "code": "9db029dff6a9c637d1f670e78dbc1a479b9b406e",
+            "description": "M.L. Campeones FHD (elcano)",
+            "icon": "mlcampeones",
+            "category":
+            {
+                "id": "mlcampeones",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "19",
+            "code": "b028202ff335911db3118bceac027df3e8ef6c32",
+            "description": "M.L. Campeones SD (elcano)",
+            "icon": "mlcampeones",
+            "category":
+            {
+                "id": "mlcampeones",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "20",
+            "code": "e572a5178ff72eed7d1d751a18b4b3419699f370",
+            "description": "M.L. Campeones (new loop)",
+            "icon": "mlcampeones",
+            "category":
+            {
+                "id": "mlcampeones",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "21",
+            "code": "e7d8cae7f693fe46e89bbf74820caac9ffb32a30",
+            "description": "M.L. Campeones 2 FHD (new era VI)",
+            "icon": "mlcampeones",
+            "category":
+            {
+                "id": "mlcampeones",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "22",
+            "code": "74ab4e4ec7e2da001f473ca40893b7307b8029c5",
+            "description": "M.L. Campeones 2 FHD (elcano)",
+            "icon": "mlcampeones",
+            "category":
+            {
+                "id": "mlcampeones",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "23",
+            "code": "38f7b2044e549df2039ff26cefa6f9a60c854d5e",
+            "description": "M.L. Campeones 2 SD (elcano)",
+            "icon": "mlcampeones",
+            "category":
+            {
+                "id": "mlcampeones",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "24",
+            "code": "2b5129adc57d43790634d796fe3468b9fd061259",
+            "description": "M.L. Campeones 3 FHD (new era VI)",
+            "icon": "mlcampeones",
+            "category":
+            {
+                "id": "mlcampeones",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "25",
+            "code": "4416843c96b7f7a1bc55c476091a60fff0922bc7",
+            "description": "M.L. Campeones 3 FHD (elcano)",
+            "icon": "mlcampeones",
+            "category":
+            {
+                "id": "mlcampeones",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "26",
+            "code": "cfc371890bfb502737a26de5215e50929c52d0f9",
+            "description": "M.L. Campeones 3 SD (elcano)",
+            "icon": "mlcampeones",
+            "category":
+            {
+                "id": "mlcampeones",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "27",
+            "code": "77998f8161373611ff6b348e7eda5b4e97d3ec29",
+            "description": "M.L. Campeones 4 FHD (new era)",
+            "icon": "mlcampeones",
+            "category":
+            {
+                "id": "mlcampeones",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "28",
+            "code": "5d3f582738467aaf213e408601aca5cc13fa9359",
+            "description": "M. Deportes FHD (new era VI)",
+            "icon": "mdeportes",
+            "category":
+            {
+                "id": "mdeportes",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "29",
+            "code": "3692ea4cdda97eb0062ed5d656ebd61f149ebd0b",
+            "description": "M. Deportes FHD (new era VI)",
+            "icon": "mdeportes",
+            "category":
+            {
+                "id": "mdeportes",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "30",
+            "code": "ebca4a63ce3bfda7b272964a1acc5227218184a4",
+            "description": "M. Deportes FHD (elcano)",
+            "icon": "mdeportes",
+            "category":
+            {
+                "id": "mdeportes",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "31",
+            "code": "2f3cfd199a49819cbd129689a840dc3d23ab93aa",
+            "description": "M. Deportes SD (elcano)",
+            "icon": "mdeportes",
+            "category":
+            {
+                "id": "mdeportes",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "32",
+            "code": "73d38feaa770d788848ec098470e32670fe55a61",
+            "description": "M. Deportes 2 FHD (new era VI)",
+            "icon": "mdeportes",
+            "category":
+            {
+                "id": "mdeportes",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "33",
+            "code": "f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0",
+            "description": "M. Deportes 2 FHD (elcano)",
+            "icon": "mdeportes",
+            "category":
+            {
+                "id": "mdeportes",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "34",
+            "code": "bfa01c11c5c6b7a616a516de4f2c769a89d26b25",
+            "description": "M. Deportes 2 SD (elcano)",
+            "icon": "mdeportes",
+            "category":
+            {
+                "id": "mdeportes",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "35",
+            "code": "29d786d72d4b53dbc333af3a50f8fb021aa0296f",
+            "description": "M. Deportes 3 FHD (new era VI)",
+            "icon": "mdeportes",
+            "category":
+            {
+                "id": "mdeportes",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "36",
+            "code": "799c6b5ee1cf41af077d14e3f9c45a32697eb903",
+            "description": "M. Deportes 3 FHD (elcano)",
+            "icon": "mdeportes",
+            "category":
+            {
+                "id": "mdeportes",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "37",
+            "code": "2fd410c5d89e7a627cd3785685b7915b8e4bd534",
+            "description": "M. Deportes 3 SD (elcano)",
+            "icon": "mdeportes",
+            "category":
+            {
+                "id": "mdeportes",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "38",
+            "code": "37825883ed185365e3194a79207347f6c7bd5ba5",
+            "description": "M. Deportes 4 FHD (new era VI)",
+            "icon": "mdeportes",
+            "category":
+            {
+                "id": "mdeportes",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "39",
+            "code": "b40e1de2dcbd7c665f54877b14c830ed67b32a96",
+            "description": "M. Deportes 4 FHD (elcano)",
+            "icon": "mdeportes",
+            "category":
+            {
+                "id": "mdeportes",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "40",
+            "code": "6dc4ac4eeae18e9daec433b01db82435cf84c57c",
+            "description": "M. Deportes 5 FHD (new era VI)",
+            "icon": "mdeportes",
+            "category":
+            {
+                "id": "mdeportes",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "41",
+            "code": "7b361369a40046ad3011086f9d4ae2982fb4d5aa",
+            "description": "M. Deportes 5 FHD (elcano)",
+            "icon": "mdeportes",
+            "category":
+            {
+                "id": "mdeportes",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "42",
+            "code": "8ee52f6208e33706171856f99d2ed2dabd317f3a",
+            "description": "Hypermotion FHD (new era VI)",
+            "icon": "hypermotion",
+            "category":
+            {
+                "id": "hypermotion",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "43",
+            "code": "70f22be1286ef224b5e4e9451d9a42468152cda4",
+            "description": "Hypermotion FHD (new era VI)",
+            "icon": "hypermotion",
+            "category":
+            {
+                "id": "hypermotion",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "44",
+            "code": "87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
+            "description": "Hypermotion FHD (elcano)",
+            "icon": "hypermotion",
+            "category":
+            {
+                "id": "hypermotion",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "45",
+            "code": "a4f072c9b614323ac1258a175f868a909ea3c8cd",
+            "description": "Hypermotion SD (elcano)",
+            "icon": "hypermotion",
+            "category":
+            {
+                "id": "hypermotion",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "46",
+            "code": "8a05571c0c8fe53f160fb7d116cdf97243679e86",
+            "description": "Hypermotion 2 FHD (new era VI)",
+            "icon": "hypermotion",
+            "category":
+            {
+                "id": "hypermotion",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "47",
+            "code": "709075831bf5c41ed0a20dfbd640aab6c28971f8",
+            "description": "Hypermotion 2 FHD (elcano)",
+            "icon": "hypermotion",
+            "category":
+            {
+                "id": "hypermotion",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "48",
+            "code": "1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6",
+            "description": "Hypermotion 3 FHD (new era VI)",
+            "icon": "hypermotion",
+            "category":
+            {
+                "id": "hypermotion",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "49",
+            "code": "778d2f60bb7207addedcca0b9aed98f41529724e",
+            "description": "Hypermotion 3 (elcano)",
+            "icon": "hypermotion",
+            "category":
+            {
+                "id": "hypermotion",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "50",
+            "code": "0e50439e68aa2435b38f0563bb2f2e98f32ff4b1",
+            "description": "DAZN LaLiga 1 FHD (new era VI)",
+            "icon": "daznlaliga",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "51",
+            "code": "1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884",
+            "description": "DAZN LaLiga 1 FHD (new era VI)",
+            "icon": "daznlaliga",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "52",
+            "code": "e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
+            "description": "DAZN LaLiga 1 FHD (elcano)",
+            "icon": "daznlaliga",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "53",
+            "code": "74defb8f4ed3a917fd07c21b34f43c17107ec618",
+            "description": "DAZN LaLiga 1 FHD (elcano)",
+            "icon": "daznlaliga",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "54",
+            "code": "4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f",
+            "description": "DAZN LaLiga 1 SD (elcano)",
+            "icon": "daznlaliga",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "55",
+            "code": "5091ea94b75ba4b50b078b4102a3d0e158ef59c3",
+            "description": "DAZN LaLiga 2 FHD (new era VI)",
+            "icon": "daznlaliga",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "56",
+            "code": "a231b2fa1f7754433efeb8bb8d69d7b9096dcba8",
+            "description": "DAZN LaLiga 2 FHD (elcano)",
+            "icon": "daznlaliga",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "57",
+            "code": "c976c7b37964322752db562b4ad65515509c8d36",
+            "description": "DAZN LaLiga 2 SD (elcano)",
+            "icon": "daznlaliga",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "58",
+            "code": "b03f9310155cf3b4eafc1dfba763781abc3ff025",
+            "description": "DAZN 1 FHD (new era VI)",
+            "icon": "dazn1",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "59",
+            "code": "36394be1db2e20b5997d987c32fd38c7f0f194b7",
+            "description": "DAZN 1 FHD (new era VI)",
+            "icon": "dazn1",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "60",
+            "code": "eb6ffec065b26259ad3d1811e0bbb0a5332ed276",
+            "description": "DAZN 1 (elcano)",
+            "icon": "dazn1",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "61",
+            "code": "7ba1f321f4d0791b7ebd42f41a07c1cd1479e784",
+            "description": "DAZN 1 (elcano)",
+            "icon": "dazn1",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "62",
+            "code": "43004e955731cd3afcc34d24e5178d4b427bff37",
+            "description": "DAZN 2 FHD (new era VI)",
+            "icon": "dazn2",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "63",
+            "code": "ae68a0835039fab28fd2314108fabd4fab33b8ab",
+            "description": "DAZN 2 (elcano)",
+            "icon": "dazn2",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "64",
+            "code": "4e401fdceebffdf1f09aef954844d09f6c62f460",
+            "description": "DAZN 3 FHD (new era VI)",
+            "icon": "dazn3",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "65",
+            "code": "d1d9ec2361a6ac8edc0b2841866383768cc28df9",
+            "description": "DAZN 3 (new loop)",
+            "icon": "dazn3",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "66",
+            "code": "eb884f77ce8815cf1028c4d85e8b092c27ea1693",
+            "description": "DAZN 4 FHD (new era VI)",
+            "icon": "dazn4",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "67",
+            "code": "7e90956539f4e1318a63f3960e4f75c7c7c5a3b8",
+            "description": "DAZN 4 (new loop)",
+            "icon": "dazn4",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "68",
+            "code": "38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7",
+            "description": "DAZN F1 FHD (new era VI)",
+            "icon": "daznf1",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "69",
+            "code": "3f5b7e2f883fe4b4b973e198d147a513d5c7c32a",
+            "description": "DAZN F1 FHD (new era VI)",
+            "icon": "daznf1",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "70",
+            "code": "b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1",
+            "description": "DAZN F1 FHD (elcano)",
+            "icon": "daznf1",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "71",
+            "code": "bcf9dc38f92e90a71b87bd54b3bac91b76d09a69",
+            "description": "DAZN F1 FHD (elcano)",
+            "icon": "daznf1",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "72",
+            "code": "fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
+            "description": "DAZN F1 FHD (elcano)",
+            "icon": "daznf1",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "73",
+            "code": "ed6188dcbb491efeb2092c1a6199226c27f61727",
+            "description": "DAZN F1 SD (elcano)",
+            "icon": "daznf1",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "74",
+            "code": "36cad67fed5a739757a9db844a551aa845a8d51b",
+            "description": "Eleven DAZN 1 (new loop)",
+            "icon": "dazn1",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "75",
+            "code": "d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
+            "description": "Eleven DAZN 2 (new loop)",
+            "icon": "dazn2",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "76",
+            "code": "dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
+            "description": "Eleven DAZN 3 (new loop)",
+            "icon": "dazn3",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "77",
+            "code": "0f32c0131a2d9444996410801f4e18b04384db98",
+            "description": "Eleven DAZN 4 (new loop)",
+            "icon": "dazn4",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "78",
+            "code": "4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a",
+            "description": "Eleven DAZN 5 (new loop)",
+            "icon": "dazn4",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "79",
+            "code": "50b6d2b5fd59fefb9f4fd2176994d418f2b94a80",
+            "description": "Eleven DAZN 6 (new loop)",
+            "icon": "dazn4",
+            "category":
+            {
+                "id": "dazn",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "80",
+            "code": "8670df538a11c6ec97b3f634981ddc4409ca0333",
+            "description": "Cuatro FHD (elcano)",
+            "icon": "cuatro",
+            "category":
+            {
+                "id": "tdt",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "81",
+            "code": "9fb99c40a2c45d5c5342b30626eb56140f980612",
+            "description": "Gol Play FHD (new era)",
+            "icon": "golplay",
+            "category":
+            {
+                "id": "tdt",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "82",
+            "code": "b2d560741c006fc5e4a42412bb52dbd25a6a4a3a",
+            "description": "Gol Play FHD (new era)",
+            "icon": "golplay",
+            "category":
+            {
+                "id": "tdt",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "83",
+            "code": "73094658f0a3ed523c0e188de67a7a690c0d4f93",
+            "description": "Gol Play FHD (new era)",
+            "icon": "golplay",
+            "category":
+            {
+                "id": "tdt",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "84",
+            "code": "5133d1e8f45095f0b7dabbd78db0ce19a496f7bf",
+            "description": "Telecinco FHD (new era)",
+            "icon": "telecinco",
+            "category":
+            {
+                "id": "tdt",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "85",
+            "code": "3d376333ee90d6db3d413fc5764ef635882076f5",
+            "description": "Telecinco FHD (elcano)",
+            "icon": "telecinco",
+            "category":
+            {
+                "id": "tdt",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "86",
+            "code": "bdc32e0f99653f96e0e1a3b98c88764b631ed9ef",
+            "description": "Teledeporte FHD (new era)",
+            "icon": "tdp",
+            "category":
+            {
+                "id": "tdt",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "87",
+            "code": "138b30c93e8a780ac490a4f6d2181c41f3670230",
+            "description": "Teledeporte FHD (new era)",
+            "icon": "tdp",
+            "category":
+            {
+                "id": "tdt",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "88",
+            "code": "714e14e6d6e27660fd25a75b57b0ac5580fe705d",
+            "description": "Eurosport 1 FHD (new era)",
+            "icon": "eurosport1",
+            "category":
+            {
+                "id": "eurosport",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "89",
+            "code": "ef2abf419586d9876370be127ad592dbb41b126a",
+            "description": "Eurosport 1 FHD (new era VI)",
+            "icon": "eurosport1",
+            "category":
+            {
+                "id": "eurosport",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "90",
+            "code": "c3da6c4f91d9d10ade00318a869435e19f204d0e",
+            "description": "Eurosport 1 FHD (elcano)",
+            "icon": "eurosport1",
+            "category":
+            {
+                "id": "eurosport",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "91",
+            "code": "d830c1dc3b74e74f79cbb823804cf2037857e78a",
+            "description": "Eurosport 1 SD (elcano)",
+            "icon": "eurosport1",
+            "category":
+            {
+                "id": "eurosport",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "92",
+            "code": "cfa75ade53810dac64411b22d56c3d4582a221d3",
+            "description": "Eurosport 1 HD (new loop)",
+            "icon": "eurosport1",
+            "category":
+            {
+                "id": "eurosport",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "93",
+            "code": "37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf",
+            "description": "Eurosport 2 FHD (new era VI)",
+            "icon": "eurosport2",
+            "category":
+            {
+                "id": "eurosport",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "94",
+            "code": "0585e09bb8ac9720e4c11934f1b184e309291551",
+            "description": "Eurosport 2 FHD (elcano)",
+            "icon": "eurosport2",
+            "category":
+            {
+                "id": "eurosport",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "95",
+            "code": "5c910d614894635153a7d42de98cc2e4a958a53f",
+            "description": "Eurosport 2 SD (elcano)",
+            "icon": "eurosport2",
+            "category":
+            {
+                "id": "eurosport",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "96",
+            "code": "199190e3f28c1de0be34bccf0d3568dc65209b99",
+            "description": "M. Plus FHD (new era VI)",
+            "icon": "mplus",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "97",
+            "code": "5866e83279307bf919068ae7a0d250e4e424e464",
+            "description": "M. Plus FHD (new era VI)",
+            "icon": "mplus",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "98",
+            "code": "1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
+            "description": "M. Plus FHD (elcano)",
+            "icon": "mplus",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "99",
+            "code": "e19c1fc5e3ada56c60d45257f7f4ed0d14bf7003",
+            "description": "M. Plus 2 FHD (new era VI)",
+            "icon": "mplus",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "100",
+            "code": "4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde",
+            "description": "M. Vamos FHD (new era VI)",
+            "icon": "vamos",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "101",
+            "code": "c7c81acdd1a03ecc418c94c2f28e2adb0556c40b",
+            "description": "M. Vamos FHD (elcano)",
+            "icon": "vamos",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "102",
+            "code": "0e5d8c9724fa9163f49096b70484e315251eb785",
+            "description": "M. Vamos SD (elcano)",
+            "icon": "vamos",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "103",
+            "code": "089673779de9fa7a18ac8dc26eb4a79cf5a86f96",
+            "description": "M. Accion FHD (new era VI)",
+            "icon": "vamos",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "104",
+            "code": "e4bce95dd4faeb9cb09ade36a0636bc4b22b691c",
+            "description": "M. Cine Español FHD (new era VI)",
+            "icon": "vamos",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "105",
+            "code": "6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae",
+            "description": "M. Clasicos FHD (new era VI)",
+            "icon": "vamos",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "106",
+            "code": "cf0cb321eed6765c2eadbd9983570f6674ce5df6",
+            "description": "M. Comedia FHD (new era VI)",
+            "icon": "vamos",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "107",
+            "code": "b3fc9b5647c5933b101c0b6b64322590c68587b9",
+            "description": "M. Documentales FHD (new era VI)",
+            "icon": "vamos",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "108",
+            "code": "a6de6a4977d7801bbddc9c7739d822f4beb358ae",
+            "description": "M. Drama FHD (new era VI)",
+            "icon": "vamos",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "109",
+            "code": "5d35f906b735f25164fa2b9b7a4e6ef91dfed131",
+            "description": "M. Estrenos FHD (new era VI)",
+            "icon": "vamos",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "110",
+            "code": "9ed46050217ee6ed8236a64b72d7992f7b3b37f2",
+            "description": "M. Golf FHD (new era VI)",
+            "icon": "mgolf",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "111",
+            "code": "50553edb5e8c54d15e0d43161369b3b4cef95065",
+            "description": "M. Hits FHD (new era VI)",
+            "icon": "mgolf",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "112",
+            "code": "7716c9fd5bd4413715e4e26f97efb91802f6ee80",
+            "description": "M. Indie FHD (new era VI)",
+            "icon": "mgolf",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "113",
+            "code": "096b817fcc836535f608facb15fca6408fae3162",
+            "description": "M. Originales FHD (new era VI)",
+            "icon": "mgolf",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "114",
+            "code": "cf99e99c105162410ec6d1f68cc6f4811560fee7",
+            "description": "M. Vacaciones FHD (new era VI)",
+            "icon": "mgolf",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "115",
+            "code": "4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2",
+            "description": "M. Comic FHD (new era VI)",
+            "icon": "mgolf",
+            "category":
+            {
+                "id": "mvarious",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "116",
+            "code": "a0464d3642e054f6122e7c309017d1e8d23f4da9",
+            "description": "Fox SPORT MX (new era)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "117",
+            "code": "bba1905fcd1c4975aec544047bf8e4cd23ce3fe0",
+            "description": "beIN Sports 1 (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "118",
+            "code": "731bd3336ec0986ff9100efe40dbaf1473a22cf8",
+            "description": "beIN Sports 3 (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "119",
+            "code": "fc5089d8e1519872fdf951779ccbca913acc9bce",
+            "description": "BT Sport 1 [UK] (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "120",
+            "code": "fc5089d8e1519872fdf951779ccbca913acc9bce",
+            "description": "BT Sport 1 [UK] (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "121",
+            "code": "06fd695a8353f40d6586db7c778a5862554c09d1",
+            "description": "BT Sport 1 [UK] (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "122",
+            "code": "efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
+            "description": "BT Sport 1 [UK] (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "123",
+            "code": "927996b8192c7cc6bf768d52528c8e4198294328",
+            "description": "BT Sport 2 [UK] (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "124",
+            "code": "d63d8a57cf471394bfa9f619bbd68b01ae27a801",
+            "description": "BT Sport 2 [UK] (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "125",
+            "code": "22fead867a8657cfb58cd84245e18954ab199db3",
+            "description": "BT Sport 3 [UK] (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "126",
+            "code": "5f966c123759de46dff29c379266b7a403452033",
+            "description": "BT Sport 3 [UK] (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "127",
+            "code": "664eb5fe460b96941aed633959a845b185cd8394",
+            "description": "ESPN2 [US] (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "128",
+            "code": "3e0ba6867173f345d482d80c771f1a5dc3b37e63",
+            "description": "ESPN 2 [BE] (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "129",
+            "code": "5f9b19c57195cc28ab81e0ec8cad03b55118687a",
+            "description": "ESPN 4 [BE] (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "130",
+            "code": "79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab",
+            "description": "ESPN [BE] (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "131",
+            "code": "4b4907de51ec11087d4bed5876f2a0c68264f442",
+            "description": "ESPN HD [US] (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "132",
+            "code": "75a56863b6fe0407ad4305b4d7ee5643c3923565",
+            "description": "Premier Sports 1 (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "133",
+            "code": "4903ca695edb64bc72ae29eb85a5333ba0139537",
+            "description": "Premier Sports 2 (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "134",
+            "code": "8dbe2d515e9131fa311353537736f8c94be9b26d",
+            "description": "Sky Sports Football (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "135",
+            "code": "eab7aeef0218ce8b0752e596e4792b69eda4df5e",
+            "description": "Sky Sports Main Event (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "136",
+            "code": "fcd7621df513f600652b4813d5d8fd1daed60058",
+            "description": "Ziggo Sport (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "137",
+            "code": "868a6187d6aeec65ded84bd777814c9f7b7a9027",
+            "description": "Ziggo Sport 2 (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "138",
+            "code": "9231f38e71a85ad24b4c11a5e360992e30c916ed",
+            "description": "Ziggo Sport 6 (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "139",
+            "code": "d317a003e8047da2c36a2a2bb2289578c9a3b79c",
+            "description": "Sky Sports Arena (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "140",
+            "code": "6d95e4b0893e155cc674b84e0763150c445d3ddd",
+            "description": "Sky Sports Cricket (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "141",
+            "code": "19cab799c86251ae8ae5f4b4faace9b78d784abc",
+            "description": "Ten TV FHD (new era)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "142",
+            "code": "8091334c82e8720fc6aa05ff0bd6d343c5bfecbf",
+            "description": "Tennis Channel (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "143",
+            "code": "039fae21c9e7e5214d3d898cba80863e37e623ac",
+            "description": "Tennis Channel HD (new loop)",
+            "icon": "international",
+            "category":
+            {
+                "id": "international",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "144",
+            "code": "599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
+            "description": "1RFEF FHD (new era)",
+            "icon": "others",
+            "category":
+            {
+                "id": "others",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "145",
+            "code": "b40212c43e96e97542ea00f2129212a054853a57",
+            "description": "1RFEF FHD (new era VI)",
+            "icon": "others",
+            "category":
+            {
+                "id": "others",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "146",
+            "code": "c1ee6e1e0ef5928d8261f855c417de21794f437d",
+            "description": "1RFEF 1 (sólo eventos) (new era V)",
+            "icon": "others",
+            "category":
+            {
+                "id": "others",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "147",
+            "code": "8677d339ecddd75165c0015025f598b6215974cf",
+            "description": "1RFEF 2 (sólo eventos) (new era V)",
+            "icon": "others",
+            "category":
+            {
+                "id": "others",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "148",
+            "code": "35e17cc84abc5e393b5acd688536a9681105f2d5",
+            "description": "Canal Motor (new loop)",
+            "icon": "others",
+            "category":
+            {
+                "id": "others",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "149",
+            "code": "442aeb6643b8836f9d00361c9e48eeb0841ddf98",
+            "description": "Motors TV HD (new loop)",
+            "icon": "others",
+            "category":
+            {
+                "id": "others",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "150",
+            "code": "8e96e35afd910d1a056dc7bf25139b8e2849b2ea",
+            "description": "Rally TV (new era III)",
+            "icon": "others",
+            "category":
+            {
+                "id": "others",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "151",
+            "code": "b8b8c4470d3d27c75302cf49ab6c4b52a660bff3",
+            "description": "Retrovision Motor (new loop)",
+            "icon": "others",
+            "category":
+            {
+                "id": "others",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "152",
+            "code": "25465ea2deba65c623b7659136abf6fcc9f5dc20",
+            "description": "Dark HD (new era III)",
+            "icon": "others",
+            "category":
+            {
+                "id": "others",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "153",
+            "code": "eb25ebc41fc51710b098f860b33b3229d11921b3",
+            "description": "Mixed TV (solo eventos) (new era III)",
+            "icon": "others",
+            "category":
+            {
+                "id": "others",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        },
+        {
+            "id": "154",
+            "code": "9c75e6ed0671eec6670cb2eabcc7d78267c7f404",
+            "description": "Motorvision (new loop)",
+            "icon": "others",
+            "category":
+            {
+                "id": "others",
+                "icon": null,
+                "description": null
+            },
+            "firstElementInCategory": false
+        }
+    ]
+}
